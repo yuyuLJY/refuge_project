@@ -3,7 +3,7 @@ The project aims at detecting high-quality messages from Telegram and training a
 
 We store our code in the src folder. The detection folder show how we detect potential high-quality message. The MMLSummarization and TextRankSummarization folder show how we use do text summarization.
 
-Algorithm output are listed below.
+Algorithm outputs are listed below.
 
 | fileName                            | Description                                                  | column                                                       |
 |-------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
